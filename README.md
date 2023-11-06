@@ -1,2 +1,0 @@
-# BioPage
- Bio page
