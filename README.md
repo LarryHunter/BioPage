@@ -2,4 +2,4 @@
 
 Bio page
 
-![Screenshot](screenshot.png)
+![alt text](https://github.com/LarryHunter/BioPage/images/Screenshot.png?raw=true)
