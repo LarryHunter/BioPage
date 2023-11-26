@@ -12,6 +12,6 @@ const typed = new Typed('.multiple', {
     strings: ['Android Mobile Developer', 'JavaScript and Web Developer in Training', 'Software Developer in Test'],
     typeSpeed: 100,
     backSpeed: 100,
-    backDelay: 1000,
+    backDelay: 500,
     loop: true,
 });
